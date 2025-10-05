@@ -1,4 +1,4 @@
-# Vue Jobs Project (YouTube)
+# Vue Jobs Project 
 
 This is the jobs listing project
 
